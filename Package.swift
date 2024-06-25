@@ -17,7 +17,7 @@ let package = Package(
         ),
     ],
     dependencies: [
-      .package(url: "https://github.com/littleTurnip/FFmpegKit.git", branch: "main"),
+      .package(url: "https://github.com/Anonym0uz/FFmpegKit.git", branch: "main"),
     ],
     targets: [
         // Targets are the basic building blocks of a package. A target can define a module or a test suite.
